@@ -1,0 +1,74 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl wire_027177027
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.105900 0.694100 0.105900
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse3.jpg
+map_Ks texture_specular3.jpg
+map_Bump texture_diffuse3_NRM.jpg
+
+newmtl wire_027177148
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.105900 0.694100 0.580400
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_087225143
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.341200 0.882400 0.560800
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse1.jpg
+map_Ks texture_specular1.jpg
+map_Bump normal1.jpg
+
+newmtl wire_141007058
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.552900 0.027500 0.227500
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_177027088
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.694100 0.105900 0.345100
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse4.jpg
+map_Ks texture_specular4.jpg
+map_Bump texture_diffuse4_NRM.jpg
+
+newmtl wire_224086086
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.878400 0.337300 0.337300
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse2.png
+map_Ks texture_specular2.png
+#map_Bump normal2.jpg
